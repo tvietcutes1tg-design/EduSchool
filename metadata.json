@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Quản Lý Lớp Chủ Nhiệm 10A1 · THPT Gia Viễn A",
+  "description": "Hệ thống sổ điểm điện tử, sơ đồ chỗ ngồi, thi đua nề nếp tuần và cổng tra cứu học sinh phụ huynh Lớp 10A1 - Trường THPT Gia Viễn A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
